@@ -1,0 +1,70 @@
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frminicio.resources
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmrecupero.resources
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmAdminPrin.resources
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Frmmodificar.resources
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Frmeliminar.resources
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.recupero2.resources
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmlogin.resources
+C:\Users\leac1\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmUsuario.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmlogin.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frminicio.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmAdminPrin.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Frmeliminar.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Frmmodificar.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmUsuario.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmrecupero.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.recupero2.resources
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmlogin.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frminicio.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmAdminPrin.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Frmeliminar.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Frmmodificar.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmUsuario.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmrecupero.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\leac1\OneDrive\Desktop\Nueva carpeta (2)\mod\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.frmhechopor.resources

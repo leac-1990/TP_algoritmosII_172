@@ -1,0 +1,44 @@
+[
+  {
+    "Codigo": 1,
+    "Nombre": "leo",
+    "Email": "mail",
+    "Contrase\u00F1a": "1234",
+    "Nivel": "Administrador"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "diego",
+    "Email": "diegohmendez77@mail",
+    "Contrase\u00F1a": "12345",
+    "Nivel": "USUARIO"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "leandro",
+    "Email": "leac16@yahoo.com",
+    "Contrase\u00F1a": "1234",
+    "Nivel": "Usuario"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Leito",
+    "Email": "leac160@gmail.com",
+    "Contrase\u00F1a": "1234",
+    "Nivel": "Usuario"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "liliana",
+    "Email": "lili@pino.com",
+    "Contrase\u00F1a": "12345",
+    "Nivel": "Usuario"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "mauri",
+    "Email": "mauri@luque.com",
+    "Contrase\u00F1a": "1234",
+    "Nivel": "Usuario"
+  }
+]
